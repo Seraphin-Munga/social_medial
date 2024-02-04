@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Gradle
+android/app/build/
+android/build/
+android/gradle.properties
+android/local.properties
+android/.gradle
+android/captures/
+
+# Android
+*.apk
+*.iml
+*.log
+/build/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/*.xcworkspace
+ios/*.xcodeproj
+*.xcuserstate
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
